@@ -1,1 +1,1 @@
-# competitive_coding_with_pyhton
+# Competitive_coding_with_pyhton
